@@ -15,12 +15,12 @@
                 <name>Термоблок стеновой ТБ400</name>
                 <vendor>Термоблок03</vendor>
                 <vendorCode>ТБ400</vendorCode>
-                <url>http://127.0.0.1:5500/index.html#productions</url>
+                <url>https://thermoblock03.ru/#productions</url>
                 <price>от 8990</price>
                 <enable_auto_discounts>false</enable_auto_discounts>
                 <currencyId>RUR</currencyId>
                 <categoryId>10</categoryId>
-                <picture>http://127.0.0.1:5500/img_blocks/tb400.png</picture>
+                <picture>https://thermoblock03.ru/img_blocks/tb400.png</picture>
                 <delivery>true</delivery>
                 <description>
                     <![CDATA[          
